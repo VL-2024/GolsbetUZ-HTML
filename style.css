@@ -629,3 +629,13 @@
     grid-template-columns: 1fr;
   }
 }
+
+/* Добавлено вручную для активной кнопки */
+.thq-button-filled {
+  background-color: #9e3c0f;
+  color: white;
+  border-radius: 20px;
+  padding: 10px 20px;
+  border: none;
+  font-weight: bold;
+}
